@@ -1,0 +1,14 @@
+streamlit
+pandas
+seaborn
+numpy
+bcrypt
+smtplib
+email-validator
+sqlite3
+plotly
+scikit-learn
+matplotlib
+fpdf
+python-dotenv
+requests
