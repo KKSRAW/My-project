@@ -1,0 +1,12 @@
+streamlit
+pandas
+seaborn
+numpy
+bcrypt
+email-validator
+plotly
+scikit-learn
+matplotlib
+fpdf
+python-dotenv
+requests
